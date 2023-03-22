@@ -34,7 +34,7 @@ pipeline {
         }
       }
       steps {
-        echo 'Deploying...'
+        echo 'Step not Executed'
       }
     }
   }
